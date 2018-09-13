@@ -1,0 +1,4 @@
+baseURL = "http://hack.futuremonmouth.co.uk/"
+languageCode = "en-gb"
+title = "Hack Monmouth"
+theme = "ananke"
