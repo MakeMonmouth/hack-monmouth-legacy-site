@@ -16,6 +16,8 @@ enableRobotsTXT = true
   filename = "sitemap.xml"
 
 [params]
+  brand = "Hack Monmouth"
+  sidebar = "left"
   favicon = ""
   description = ""
   facebook = ""
