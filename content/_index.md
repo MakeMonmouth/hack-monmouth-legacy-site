@@ -11,4 +11,4 @@ We're on [Facebook](https://www.facebook.com/groups/futuremonmouth/) (mainly use
 
 We meet up at least once a month.  To book tickets to our next event, please use the form below:
 
-{{< eventbrite event_id="51133820634" >}}
+{{< eventbrite event_id="53093338605" >}}
