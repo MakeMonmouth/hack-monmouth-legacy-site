@@ -37,7 +37,7 @@ enableRobotsTXT = true
     name = "Meet ups"
     weight = 100
     identifier = "meetups"
-    url = "/meetups/"
+    url = "/events/"
 [[menu.main]]
     name = "About Us"
     identifier = "aboutus"
